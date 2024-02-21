@@ -3,7 +3,7 @@ Your first task: create a new repository, create a README.nd file and upload ano
 
 You can find a playlist of videos about git by [link] (https://www.youtube.com/watch?v=EeARyFrZsnU)
 
-## Front_End Developer stack:
+## Front_END Developer stack:
 
 *HTML
 ﻿﻿*CSS
