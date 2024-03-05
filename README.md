@@ -7,7 +7,7 @@ You can find a playlist of videos about git by [Link] (https://www.youtube.com/w
 ﻿﻿*CSS
 ﻿﻿*JavaScript
   
-function greet(name) {
+function greet(Anton) {
   console.log("Hi, " + name + "!");
 }
 
