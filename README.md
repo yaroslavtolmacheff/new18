@@ -8,7 +8,7 @@ You can find a playlist of videos about git by [link] (https://www.youtube.com/w
 ﻿﻿*JavaScript
   
 function greet(Petr) {
-  console.log("HI, " + name + "!!!");
+  console.log("1I, " + name + "!!!");
 }
 
 greet("WORLD");
